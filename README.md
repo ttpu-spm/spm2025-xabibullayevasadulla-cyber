@@ -106,4 +106,4 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
 
-  BY Asadulla Khabibullayev
+  BY Asadulla Khabibullayev part 1
